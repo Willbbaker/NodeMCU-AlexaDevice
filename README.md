@@ -1,3 +1,8 @@
+//This project has been updated to work with ArduinoJson v6. I did not write the original, I just modified it. 
+//The updated version is on the branch 'patch-1'. 
+//- William
+
+
 # NodeMCU-AlexaDevice
 Use a NodeMCU (ESP-12E) to control literally Anything in your house by turning into a Smart Switch.
 View my video tutorial on YouTube for more information: https://youtu.be/0Z1pR3cehHQ
